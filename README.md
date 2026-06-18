@@ -135,7 +135,7 @@ ros2 launch launch_gripper.py
 - **libfranka**: 0.18.x 及其以上；
 - **控制频率**: 1kHz (RT priority 98)；
 
-## 关键修改说明
+## 修改说明
 
 相比源franka_ros2，主要修改了：
 
